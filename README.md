@@ -36,7 +36,7 @@ The purpose of this repository is to practice and understand fundamental network
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/cisco-packet-tracer-labs.git
+git clone https://github.com/kavinadee2/Cisco.git
 ```
 
 3. Open any `.pkt` file using Cisco Packet Tracer.
